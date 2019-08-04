@@ -1,5 +1,6 @@
 package com.owen.nakurutravellers;
 
+//this gas been replaced byvfirebase ui
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
