@@ -20,6 +20,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//TODO Crate simple grouped class to avoid declaration in all java classes
 public class FirebaseUtil
 {
     public static FirebaseDatabase mFirebaseDatabase;
